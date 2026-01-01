@@ -1,16 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mosairul Alam Tyhan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2F80ED&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+from+Bangladesh;Python+%7C+NumPy+%7C+Pandas;Learning+Machine+Learning+%26+Data+Analysis" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2F80ED&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist+from+Bangladesh;Python+%7C+NumPy+%7C+Pandas;Learning+Machine+Learning+%26+Data+Analysis" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
-</p>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tyhan-data&label=Profile%20views&color=2F80ED&style=flat" alt="profile views" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650" />
 </p>
+
+
+
+<p align="center">
+  <h2>
+    <img src="https://komarev.com/ghpvc/?username=tyhan-data&label=Profile%20views&color=2F80ED&style=plastic" alt="profile views" />
+  </h2>
+</p>
+
 
 ---
 
