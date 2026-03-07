@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mosairul Alam Tyhan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2F80ED&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist+from+Bangladesh;Python+%7C+NumPy+%7C+Pandas;Learning+Machine+Learning+%26+Data+Analysis" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2F80ED&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+from+Bangladesh;Python+%7C+NumPy+%7C+Pandas;Learning+Machine+Learning+%26+Data+Analysis" />
 </p>
 
 
@@ -45,7 +45,6 @@
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
