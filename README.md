@@ -2,10 +2,11 @@
 
 # Mosairul Alam Tyhan
 
-**Aspiring Data Scientist · Bangladesh**
+**Data Scientist · Bangladesh**
 
-*Building practical data skills through hands-on projects — from real-world analysis to machine learning foundations.*
+*Transforming data into actionable insights through rigorous analysis and machine learning — driven by curiosity and a commitment to continuous learning.*
 
+[![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://tyhan-dev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mosairul-alam-tyhan-a975a0343)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tyhan-data)
 ![Profile Views](https://komarev.com/ghpvc/?username=tyhan-data&label=Profile+Views&color=378ADD&style=for-the-badge)
@@ -14,20 +15,26 @@
 
 ---
 
-## At a Glance
+## About Me
 
-| | |
-|---|---|
-| 🔭 **Working on** | Data Science projects using Python |
-| 🤝 **Open to collaborate** | Beginner-friendly DS & ML projects |
-| 🌱 **Currently learning** | NumPy, Pandas, Matplotlib & ML basics |
-| ⚡ **Fun fact** | Improving English while learning Data Science |
+I am a data scientist passionate about uncovering patterns in complex datasets and leveraging machine learning to solve real-world problems. With a strong foundation in Python, data analysis, and visualization, I focus on building scalable, reproducible solutions while maintaining clean, professional code standards.
 
 ---
 
-## Languages & Tools
+## Core Competencies
 
-**Core Languages**
+| Area | Description |
+|------|-------------|
+| 📊 **Data Analysis** | Exploratory analysis and statistical modeling using NumPy and Pandas |
+| 📈 **Data Visualization** | Communicating insights through compelling visual narratives with Matplotlib & Seaborn |
+| 🤖 **Machine Learning** | Implementing and optimizing ML algorithms for predictive and prescriptive analytics |
+| 💻 **Software Engineering** | Writing clean, maintainable, and well-documented Python code |
+
+---
+
+## Technical Stack
+
+**Languages**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
@@ -35,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
 </p>
 
-**Data Science Libraries**
+**Data Science & Analytics**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy" />
@@ -47,7 +54,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" title="Jupyter Notebook" />
 </p>
 
-**Dev Tools**
+**Development Tools**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
@@ -59,24 +66,16 @@
 
 ---
 
+## Current Learning & Development
 
-## 🚀 Skills & Focus Areas
+- 🔭 **Current Focus**: Advanced data science projects and machine learning applications
+- 🤝 **Open To**: Collaborating on impactful data science and ML initiatives
+- 🌱 **Expanding Skills**: Deep learning frameworks and advanced statistical modeling
+- ⚡ **Ongoing**: Professional development in English technical communication
 
-- **01 · Data Analysis**  
-  Exploratory analysis using NumPy and Pandas  
+---
 
-- **02 · Data Visualization**  
-  Building insightful charts with Matplotlib & Seaborn  
-
-- **03 · Machine Learning**  
-  Studying core ML concepts and applying them to real-world problems  
-
-- **04 · Clean Code**  
-  Writing readable, well-structured, and maintainable Python
-
-  ---
-
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
@@ -88,6 +87,10 @@
 
 ---
 
+## Get In Touch
+
+I'm always interested in discussing data science projects, collaborating on interesting problems, and connecting with fellow professionals in the field.
+
 <div align="center">
-<i>Repositories are open for exploration — feedback and collaboration are always welcome.</i>
+<i>All repositories are open for exploration — questions, feedback, and collaboration inquiries are always welcome.</i>
 </div>
