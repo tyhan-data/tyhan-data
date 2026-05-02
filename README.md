@@ -9,7 +9,6 @@
 [![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://tyhan-dev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mosairul-alam-tyhan-a975a0343)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tyhan-data)
-![Profile Views](https://komarev.com/ghpvc/?username=tyhan-data&label=Profile+Views&color=378ADD&style=for-the-badge)
 
 </div>
 
@@ -17,7 +16,7 @@
 
 ## About Me
 
-I am a data scientist passionate about uncovering patterns in complex datasets and leveraging machine learning to solve real-world problems. With a strong foundation in Python, data analysis, and visualization, I focus on building scalable, reproducible solutions while maintaining clean, professional code standards.
+I am a data scientist passionate about uncovering patterns in complex datasets and leveraging machine learning to solve real-world problems. With a strong foundation in Python, data analysis, and [...]
 
 ---
 
@@ -34,35 +33,40 @@ I am a data scientist passionate about uncovering patterns in complex datasets a
 
 ## Technical Stack
 
-**Languages**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
-</p>
-
-**Data Science & Analytics**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib" />
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" title="Jupyter Notebook" />
-</p>
-
-**Development Tools**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>Languages</h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
+        &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Data Science & Analytics</h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy" />
+        &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas" />
+        &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib" />
+        &nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" title="Jupyter Notebook" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Development Tools</h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
+        &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub" />
+        &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
