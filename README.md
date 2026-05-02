@@ -16,7 +16,9 @@
 
 ## About Me
 
-I am a data scientist passionate about uncovering patterns in complex datasets and leveraging machine learning to solve real-world problems. With a strong foundation in Python, data analysis, and [...]
+I am a passionate data science learner and practitioner who enjoys working with data and discovering hidden patterns. I have experience with Python, data analysis, and basic machine learning techniques.
+
+Currently, I am focused on improving my skills in SQL, machine learning, and real-world project development. I am always eager to learn new technologies and take on challenges that help me grow as a data scientist.
 
 ---
 
@@ -79,15 +81,7 @@ I am a data scientist passionate about uncovering patterns in complex datasets a
 
 ---
 
-## GitHub Activity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyhan-data&show_icons=true&hide_border=true&title_color=185FA5&icon_color=378ADD)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyhan-data&layout=compact&hide_border=true&title_color=185FA5)
-
-</div>
 
 ---
 
