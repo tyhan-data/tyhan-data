@@ -6,7 +6,7 @@
 
 *Transforming data into actionable insights through rigorous analysis and machine learning — driven by curiosity and a commitment to continuous learning.*
 
-[![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://tyhan-dev.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://tyhan-data.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mosairul-alam-tyhan-a975a0343)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tyhan-data)
 
@@ -81,7 +81,9 @@ Currently, I am focused on improving my skills in SQL, machine learning, and rea
 
 ---
 
+## 🌐 Portfolio Website
 
+👉 **[Visit My Portfolio](https://tyhan-data.netlify.app/)**
 
 ---
 
